@@ -1,0 +1,5 @@
+{
+  "name": "AutoPPT GenAI",
+  "description": "An AI-powered application that generates complete PowerPoint presentations with text, images, tables, and animations from a single prompt.",
+  "requestFramePermissions": []
+}
